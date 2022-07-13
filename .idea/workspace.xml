@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67193004-f40f-41c7-b879-d480d225b5fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BqH9refWPeZZuDywEcrA48pHQM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30574712" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67193004-f40f-41c7-b879-d480d225b5fe" name="Default Changelist" comment="" />
+      <created>1657626547775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657626547775</updated>
+      <workItem from="1657626548911" duration="5791000" />
+      <workItem from="1657700188772" duration="3994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657712510022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1657712510022" />
+    <state x="578" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1657712607107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657712607107" />
+    <state x="769" y="496" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1657711630665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="496" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040@0.0.1920.1040" timestamp="1657711630665" />
+    <state x="770" y="496" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1657711780850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="496" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657711780850" />
+    <state x="558" y="88" key="CommitChangelistDialog2" timestamp="1657713404048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1657713404048" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1657713006990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1657713006990" />
+    <state x="771" y="438" key="Github.CreateGistDialog" timestamp="1657712661495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657712661495" />
+    <state x="473" y="343" width="624" height="280" key="Github.ShareDialog" timestamp="1657713045828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="343" width="624" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657713045828" />
+    <state x="732" y="220" key="Github.UntrackedFilesDialog" timestamp="1657713060567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="220" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657713060567" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1657636605415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657636605415" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1657713557864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1657713557864" />
+    <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1657711757959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1657711757959" />
+    <state x="334" y="180" key="new project wizard" timestamp="1657626759174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1657626759174" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
