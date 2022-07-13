@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67193004-f40f-41c7-b879-d480d225b5fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spb1-web/target/classes/application.properies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spb1-web/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spb1-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spb1-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spb1-web/src/main/java/com/shangma/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spb1-web/src/main/java/com/shangma/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spb1-web/src/main/java/com/shangma/controller/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/spb1-web/src/main/java/com/shangma/controller/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spb1-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spb1-web/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +30,12 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/software/apache-maven-3.6.0" />
+        <option name="mavenHome" value="D:\software\apache-maven-3.6.0" />
         <option name="userSettingsFile" value="D:\software\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -42,18 +51,23 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/spb1-web/src/test/java/com/shangma/test/UserSerivceTest.java" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30574712" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.MyApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -65,6 +79,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserSerivceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb1-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shangma.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shangma.test" />
+      <option name="MAIN_CLASS_NAME" value="com.shangma.test.UserSerivceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSerivceTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb1-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shangma.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shangma.test" />
+      <option name="MAIN_CLASS_NAME" value="com.shangma.test.UserSerivceTest" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spb1-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shangma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shangma.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyApplication" />
+        <item itemvalue="JUnit.UserSerivceTest" />
+        <item itemvalue="JUnit.UserSerivceTest.hello" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,11 +141,24 @@
       <updated>1657626547775</updated>
       <workItem from="1657626548911" duration="5791000" />
       <workItem from="1657700188772" duration="3994000" />
+      <workItem from="1657713651657" duration="2256000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;增加java忽略文件&quot;">
+      <created>1657713892732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657713892732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;增加java忽略文件&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;增加java忽略文件&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657712510022">
@@ -99,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="496" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657711780850" />
-    <state x="558" y="88" key="CommitChangelistDialog2" timestamp="1657713404048">
+    <state x="558" y="88" key="CommitChangelistDialog2" timestamp="1657713891980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1657713404048" />
+    <state x="558" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1657713891980" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1657713006990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,18 +197,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="732" y="220" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657713060567" />
-    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1657636605415">
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1657715750536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657636605415" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1657713557864">
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1657715750536" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1657715750536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1657713557864" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1657715750536" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1657715750536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1657715750536" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1657715750536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1657715750536" />
+    <state width="1877" height="127" key="GridCell.Tab.1.bottom" timestamp="1657715150925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1657715150925" />
+    <state width="1877" height="127" key="GridCell.Tab.1.center" timestamp="1657715150925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1657715150925" />
+    <state width="1877" height="127" key="GridCell.Tab.1.left" timestamp="1657715150925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1657715150925" />
+    <state width="1877" height="127" key="GridCell.Tab.1.right" timestamp="1657715150925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1657715150925" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1657714937653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657714937653" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1657714492623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1657714492623" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1657713898790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1657713898790" />
     <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1657711757959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="481" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1657711757959" />
+    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657713818236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1657713818236" />
     <state x="334" y="180" key="new project wizard" timestamp="1657626759174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

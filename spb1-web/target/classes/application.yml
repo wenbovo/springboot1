@@ -2,9 +2,9 @@ logging:
   file:
     path: D:\\boot
   level:
-    root: warn
+    root: info
     com:
-      shangma: info
+      shangma: debug
   pattern:
     console: '%clr(%d{yyyy-MM-dd HH:mm:ss}) [%c]-[%p] %m%n'
     file: '%d{yyyy-MM-dd HH:mm:ss} [%c]-[%p] %m%n'

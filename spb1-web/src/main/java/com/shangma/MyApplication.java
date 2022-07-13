@@ -2,7 +2,6 @@ package com.shangma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.servlet.tags.HtmlEscapeTag;
 
 /**
  * @author BOGEY
@@ -12,7 +11,5 @@ import org.springframework.web.servlet.tags.HtmlEscapeTag;
 public class MyApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class,args);
-
-
     }
 }
